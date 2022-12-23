@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 23 Dec 2022 21:00:43 at https://web.archive.org/web/20220618093106/https://programforyou.ru/block-diagram-redactor
+(winhttrack https://web.archive.org/web/20220618093106/https://programforyou.ru/block-diagram-redactor -O "./websites/block scheme" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:00:53	Warning: 	FOUND for https://web.archive.org/web/20220618093106/https://programforyou.ru/
+21:00:53	Warning: 	File has moved from https://web.archive.org/web/20220618093106/https://programforyou.ru/ to https://web.archive.org/web/20220618093109/https://programforyou.ru/
+21:01:34	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20220618093106/https://programforyou.ru/images/programs/eclipse-screenshot.png (from https://web.archive.org/web/20220618093106/https://programforyou.ru/programs)
+21:01:34	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20220618093106/https://programforyou.ru/files/programs/eclipse-inst-win32.zip (from https://web.archive.org/web/20220618093106/https://programforyou.ru/programs)
+21:01:34	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20220618093106/https://programforyou.ru/files/programs/eclipse-inst-win64.zip (from https://web.archive.org/web/20220618093106/https://programforyou.ru/programs)
+21:01:34	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20220618093106/https://programforyou.ru/images/programs/visualstudio-screenshot.png (from https://web.archive.org/web/20220618093106/https://programforyou.ru/programs)
+21:01:34	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20220618093106/https://programforyou.ru/files/programs/VisualStudioCommunity2017.zip (from https://web.archive.org/web/20220618093106/https://programforyou.ru/programs)
+21:01:34	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20220618093106/https://programforyou.ru/images/programs/pascalabc-screenshot.png (from https://web.archive.org/web/20220618093106/https://programforyou.ru/programs)
+21:01:34	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20220618093106/https://programforyou.ru/files/programs/PascalABC.Net.zip (from https://web.archive.org/web/20220618093106/https://programforyou.ru/programs)
+21:01:34	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20220618093106/https://programforyou.ru/images/programs/sublimetext3-screenshot.png (from https://web.archive.org/web/20220618093106/https://programforyou.ru/programs)
+21:01:34	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20220618093106/https://programforyou.ru/files/programs/SublimeText3.zip (from https://web.archive.org/web/20220618093106/https://programforyou.ru/programs)
+
+HTTrack Website Copier/3.49-2 mirror complete in 51 seconds : 13 links scanned, 2 files written (568459 bytes overall) [518833 bytes received at 10173 bytes/sec], 1800398 bytes transferred using HTTP compression in 11 files, ratio 27%, 14.0 requests per connection
+(9 errors, 2 warnings, 0 messages)
